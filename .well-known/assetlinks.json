@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.tiimapp",
+      "sha256_cert_fingerprints":
+      ["44:DC:AE:F5:47:C0:79:37:05:A2:1E:9E:AC:C9:26:56:31:0D:73:CC:C0:28:2E:84:F1:3F:46:CD:0F:F4:92:C4"]
+    }
+  }]
